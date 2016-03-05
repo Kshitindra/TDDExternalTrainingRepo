@@ -1,0 +1,11 @@
+Build an AuthenticationService that provides the following functionalities.
+
+1) Create an user (with username and password); 
+You have to validate the username and password for blank values 
+and invalid length; You have to encrypt password and store in the database
+
+2) Change Password; 
+You have to get the username and new password; 
+Encrypt the new password and replace old password.
+
+Mock the neccessary classes like dao, validators etc.
